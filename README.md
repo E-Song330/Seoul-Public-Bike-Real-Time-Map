@@ -12,8 +12,11 @@ Its objective is to increase user convenience by establishing an Html map to mak
  * Actual serviced map
 <img width="300" alt="스크린샷 2021-06-21 19 13 04" src="https://user-images.githubusercontent.com/85876717/122803978-99777600-d2c7-11eb-8fb2-69f66845daa9.png">
 <br/>
+
 It's a current serviced map at the web page of [Seoul bike](https://www.bikeseoul.com/app/station/moveStationRealtimeStatus.do?searchValue=서울&searchType=)
+
 <br/>
+
 There are too many bike stations to check availability while clicking one by one, because of there is no division by quantity, but just by bike models.
 <br/>
 <br/>
@@ -56,4 +59,5 @@ The project consisted of the following steps:
 <br/>
 <br/>
 <br/>
+
 You can check out the [results](https://github.com/E-Song330/Seoul-Public-Bike-Real-Time-Map/blob/3ec6870c00652b1bf99bc60feaee320ac60b373a/Seoul%20Public%20Bike%20Real-time%20Map.md)
