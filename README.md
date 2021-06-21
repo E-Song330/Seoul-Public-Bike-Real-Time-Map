@@ -58,6 +58,14 @@ The project consisted of the following steps:
   * Visualize mini map
 <br/>
 <br/>
+
+
+## Stack
+
+Jupyter notebook, ```folium```,```pandas``` etc.
+
+<br/>
+<br/>
 <br/>
 
 You can check out the [results](https://github.com/E-Song330/Seoul-Public-Bike-Real-Time-Map/blob/3ec6870c00652b1bf99bc60feaee320ac60b373a/Seoul%20Public%20Bike%20Real-time%20Map.md)
