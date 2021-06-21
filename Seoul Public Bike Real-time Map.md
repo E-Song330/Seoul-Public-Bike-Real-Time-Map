@@ -44,11 +44,11 @@ You can still check out the clustered stations but more detailed. some icons sta
 When you zoom more the map, you can clearly see the icons with three colours -Blue, Green, Red.<br/>
 <br/>
 Colour markers make you able to distinguish approximate quantity of bycicles
-  - If the bicycle having rate is more than 50% -> Blue
-  - If there are fewer than two bicycles now -> Red
-  - Other (There are more than 2 bycicles and having rate is less than 50%) -> Green
+  - If the bicycle having rate is more than 50% -> Blue<br/>
+  - If there are fewer than two bicycles now -> Red<br/>
+  - Other (There are more than 2 bycicles and having rate is less than 50%) -> Green<br/>
  Also, if you move a mouse over a icon, it says the number and name of stations, also how many available bikes has. So easy.
-<br/>
+<br/><br/>
 Thus, you can check if the station has any bike available without zoom to specific station or click it
 <br/>
 <br/>
