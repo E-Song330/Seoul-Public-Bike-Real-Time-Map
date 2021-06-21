@@ -35,7 +35,9 @@ You can still check out the clustered stations but more detailed. some icons sta
 <br/>
 <br/>
 <br/>
+
 ## 3. Icons with colours (by conditions)
+
 <br/>
 <br/>
 <img width="1194" alt="스크린샷 2021-06-21 18 40 51" src="https://user-images.githubusercontent.com/85876717/122798235-a47ad800-d2c0-11eb-9f91-942d66d6629c.png">
@@ -43,7 +45,7 @@ You can still check out the clustered stations but more detailed. some icons sta
 <br/>
 When you zoom more the map, you can clearly see the icons with three colours -Blue, Green, Red.<br/>
 <br/>
-Colour markers make you able to distinguish approximate quantity of bycicles
+Colour markers make you able to distinguish approximate quantity of bycicles<br/>
   - If the bicycle having rate is more than 50% -> Blue<br/>
   - If there are fewer than two bicycles now -> Red<br/>
   - Other (There are more than 2 bycicles and having rate is less than 50%) -> Green<br/>
@@ -54,7 +56,9 @@ Thus, you can check if the station has any bike available without zoom to specif
 <br/>
 <br/>
 <br/>
+
 ## 4. Exact location of stations
+
 <br/>
 <br/>
 <img width="1194" alt="스크린샷 2021-06-21 18 41 31" src="https://user-images.githubusercontent.com/85876717/122798242-a6449b80-d2c0-11eb-94a0-c2809c0d96df.png">
