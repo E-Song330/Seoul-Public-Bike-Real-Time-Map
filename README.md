@@ -62,7 +62,7 @@ The project consisted of the following steps:
 
 ## Stack
 
-Jupyter notebook, ```folium```,```pandas``` etc.
+Jupyter notebook : ```folium```,```pandas``` etc.
 
 <br/>
 <br/>
