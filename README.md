@@ -1,11 +1,16 @@
 # Seoul Public Bike(Ttareungyi) Real-Time Map
 
-
+<br/>
+<br/>
 ## Objective
+
 
 The number of public bike rental stations in Seoul exceeds 1,500. Rather than clicking dozens of nearby rental stations one by one, if service users can see maps with icons identified by colours according to the number of bikes, they may be able to solve their small inconvenience.
 Its objective is to increase user convenience by establishing an Html map to make it easier to check the real-time number of bicycles available at the Seoul public bike rental station by colour.
 
+
+<br/>
+<br/>
 ## Contents
 
 The project consisted of the following steps:
@@ -35,8 +40,7 @@ The project consisted of the following steps:
   * Visualize map with the icons of stations
   * Visualize cluster map of station colored by conditions
   * Visualize mini map
-
-You can check out the results,
-
-
-Let's take a look from the [first step]()!
+<br/>
+<br/>
+<br/>
+You can check out the [results[(https://github.com/E-Song330/Seoul-Public-Bike-Real-Time-Map/blob/3ec6870c00652b1bf99bc60feaee320ac60b373a/Seoul%20Public%20Bike%20Real-time%20Map.md
